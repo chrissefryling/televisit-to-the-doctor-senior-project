@@ -1,0 +1,7 @@
+#ignores json files created over course of running program
+*.json
+!raniaallgood.json
+urlcommunicator.txt
+__pycache__/*
+.DS_Store
+notes.txt
